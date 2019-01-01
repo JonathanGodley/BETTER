@@ -7,7 +7,7 @@ and the Parent Validation email system is also incomplete.
 
 You'll start logged in, but you can log out and create a new account easilly, left you logged in for ease of testing.
 
-Whilst the project is named assig1 it is actually assig2, I simply couldn't rename the project easilly without having a shitload of problems with namespaces etc.
+Whilst the project is named assig1 it is actually assig2, I simply couldn't rename the project easilly without having a large number of problems with namespaces etc.
 
 My modified database file is attached as c3188072_assig2udbBETTER.sql
 
